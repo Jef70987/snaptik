@@ -289,9 +289,6 @@
     .project--sample .sample p{
         margin: 20px;
     }
-    .contact--details{
-        border-radius: 50px;
-    }
     .contact--details p{
        font-size:15px
     }
@@ -357,9 +354,6 @@
     .project--sample .sample p{
         margin: 20px;
     }
-    .contact--details{
-        border-radius: 50px;
-    }
     .contact--details p{
        font-size:15px
     }
@@ -424,9 +418,6 @@
     }
     .project--sample .sample p{
         margin: 20px;
-    }
-    .contact--details{
-        border-radius: 50px;
     }
     .contact--details p{
        font-size:15px
