@@ -292,6 +292,9 @@
     .contact--details{
         border-radius: 50px;
     }
+    .contact--details p{
+       font-size:20px
+    }
 }
 @media (max-width:750px){
     .main--container{
@@ -357,6 +360,9 @@
     .contact--details{
         border-radius: 50px;
     }
+    .contact--details p{
+       font-size:20px
+    }
 }
 @media (max-width:400px){
     .main--container{
@@ -421,5 +427,8 @@
     }
     .contact--details{
         border-radius: 50px;
+    }
+    .contact--details p{
+       font-size:20px
     }
 }
